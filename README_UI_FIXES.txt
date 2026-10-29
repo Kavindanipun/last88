@@ -1,0 +1,1 @@
+Updates: Back Cover product photo stage black; mobile 2/1 column toggle; brand filters single-select; removed browse-by-brand and duplicate brand headings on both stores; Back Cover signature heading matches Glass & Case font in white. Source product photos are unchanged.
